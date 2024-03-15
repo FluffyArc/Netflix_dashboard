@@ -6,15 +6,15 @@
 
 ### Table of Contents:
 
-- [**Stage 1: Objective**](#stage-0-objective)
-- [**Stage 2: Data Analysis**](#stage-1-data-analysis)
+- [**Stage 1: Objective**](#stage-1-objective)
+- [**Stage 2: Data Analysis**](#stage-2-data-analysis)
     - [Total Movies and TV Shows by years](#total-movies-and-tv-shows-by-year)
     - [Total Movies and TV Shows by country](#total-movies-and-tv-shows-by-country)
     - [Top 10 Genre](#top-10-genre)
     - [Movies and TV Shows distribution](#movies-and-tv-shows-distribution)
     - [Ratings](#ratings)    
     - [Description/Date Added/Duration/Rating/Release Year/Genre](#card-analysis)
-- [**Stage 3: Dashboard Development**](#stage-2-dashboard-development)
+- [**Stage 3: Dashboard Development**](#stage-3-dashboard-development)
 
 ---
 
