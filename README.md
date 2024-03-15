@@ -13,7 +13,6 @@
     - [Top 10 Genre](#top-10-genre)
     - [Movies and TV Shows distribution](#movies-and-tv-shows-distribution)
     - [Ratings](#ratings)    
-    - [Description/Date Added/Duration/Rating/Release Year/Genre](#description-/-date-added-/-duration-/-rating-/-release-year-/-genre)
 - [**Stage 3: Dashboard Development**](#stage-3-dashboard-development)
 
 ---
@@ -29,7 +28,6 @@ This dashboard is created to gain the insights from netflix dataset. There are s
 3. Top 10 Genre
 4. Movies and TV Shows distribution
 5. Ratings
-6. Description/Date Added/Duration/Rating/Release Year/Genre
 
 ---
 
@@ -66,12 +64,6 @@ The result of tableau visualization is shown in the figure below.
 ![image](https://github.com/FluffyArc/Netflix_dashboard/assets/40890491/7865d333-ef7c-4d76-83fa-a49f05c39e44)
 
 Most of the Netflix Movies/TV Shows are rated for TV-MA (Mature Audience Only), which is specifically designed to be viewed by adults and therefore may be unsuitable for children under 17.
-
-## Description/Date Added/Duration/Rating/Release Year/Genre
-The result of tableau visualization is shown in the figure below.
-![image](https://github.com/FluffyArc/Netflix_dashboard/assets/40890491/e1c28f05-45cc-4a42-9b11-32c6036cf0b3)
-
-The value for each section will be generated based on the given filter (will be shown in dashboard section). The value are based on the Type(Movies/TV Shows) and Title.
 
 ---
 
