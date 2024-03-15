@@ -13,7 +13,7 @@
     - [Top 10 Genre](#top-10-genre)
     - [Movies and TV Shows distribution](#movies-and-tv-shows-distribution)
     - [Ratings](#ratings)    
-    - [Description/Date Added/Duration/Rating/Release Year/Genre](#card-analysis)
+    - [Description/Date Added/Duration/Rating/Release Year/Genre](#description-date-added-duration-rating-release-year-genre)
 - [**Stage 3: Dashboard Development**](#stage-3-dashboard-development)
 
 ---
